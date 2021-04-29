@@ -68,7 +68,7 @@ _________________________________________________________ -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-parallax/1.1.3/jquery-parallax-min.js" integrity="sha512-ES/eSqVi/9sgeZfvunOto+gwgFGrD/hzi5UOJFDR1Me8acKSBJIb2Gk0IyKje2ZaX+OovAG2/bRzj/uBcNeesg==" crossorigin="anonymous"></script>
 
     <!-- main js file -->
-     <script src="./js/front.js"></script>
+     <script src="/js/front.js"></script>
     
 
     
