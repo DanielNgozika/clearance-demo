@@ -24,10 +24,10 @@
     <!-- <link href="/clearance/css/bootstrap.min.css" rel="stylesheet"> -->
 
     <!-- Theme stylesheet -->
-    <link href="/clearance/css/style.default.css" rel="stylesheet" id="theme-stylesheet">
+    <link href="https://raw.githubusercontent.com/DanielNgozika/clearance-demo/main/clearance/css/style.default.css?token=AHCPR7T6JYTOY3VTESGCPODARJ2DC" rel="stylesheet" id="theme-stylesheet">
 
     <!-- Custom stylesheet - for your changes -->
-    <link href="/clearance/css/custom.css" rel="stylesheet">
+    <link href="https://raw.githubusercontent.com/DanielNgozika/clearance-demo/main/clearance/css/custom.css?token=AHCPR7UBM7R2PW3GLZH2QGTARJZ42" rel="stylesheet">
 
     <!-- owl carousel css -->
 
