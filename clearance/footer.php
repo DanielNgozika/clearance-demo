@@ -40,34 +40,35 @@ _________________________________________________________ -->
     <!-- #### JAVASCRIPT FILES ### -->
 
     <!-- js base -->
-    <script src="js/jquery-1.11.0.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></script>
 
     <!-- for demo purpose -->
-    <script src="js/jquery.cookie.js"></script>
+    <script src="/js/jquery.cookie.js"></script>
 
     <!-- waypoints for scroll spy -->
-    <script src="js/waypoints.min.js"></script>
+    <script src="/js/waypoints.min.js"></script>
 
 
     <!-- masonry layout -->
-    <script src="js/masonry.pkgd.min.js"></script>
+    <script src="/js/masonry.pkgd.min.js"></script>
 
     <!-- owl carousel -->
-    <script src="js/owl.carousel.min.js"></script>
+    <!-- <script src="js/owl.carousel.min.js"></script> -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw==" crossorigin="anonymous"></script>
 
 
     <!-- jQuery scroll to -->
-    <script src="js/jquery.scrollTo.min.js"></script>
+    <script src="/js/jquery.scrollTo.min.js"></script>
 
     <!-- jQuery counter -->
-    <script src="js/jquery.counterup.min.js"></script>
+    <script src="/js/jquery.counterup.min.js"></script>
 
     <!-- jQuery parallax -->
-    <script src="js/jquery.parallax-1.1.3.js"></script>
+    <script src="/js/jquery.parallax-1.1.3.js"></script>
 
     <!-- main js file -->
-     <script src="js/front.js"></script>
+     <script src="/js/front.js"></script>
     
 
     
