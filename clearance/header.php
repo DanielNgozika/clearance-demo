@@ -16,7 +16,7 @@
 
     <meta name="keywords" content="">
 
-    <link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,700,100%7CRoboto:400,700,300,100' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,700,100%7CRoboto:400,700,300,100' rel='stylesheet' type='text/css'>
 
     <!-- Bootstrap and Font Awesome css -->
     <link href="css/font-awesome.css" rel="stylesheet">
