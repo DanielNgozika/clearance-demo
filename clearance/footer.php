@@ -44,14 +44,14 @@ _________________________________________________________ -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></script>
 
     <!-- for demo purpose -->
-    <script src="/js/jquery.cookie.js"></script>
+    <script src="/clearance/js/jquery.cookie.js"></script>
 
     <!-- waypoints for scroll spy -->
-    <script src="/js/waypoints.min.js"></script>
+    <script src="/clearance/js/waypoints.min.js"></script>
 
 
     <!-- masonry layout -->
-    <script src="/js/masonry.pkgd.min.js"></script>
+    <script src="/clearance/js/masonry.pkgd.min.js"></script>
 
     <!-- owl carousel -->
     <!-- <script src="js/owl.carousel.min.js"></script> -->
@@ -59,16 +59,16 @@ _________________________________________________________ -->
 
 
     <!-- jQuery scroll to -->
-    <script src="/js/jquery.scrollTo.min.js"></script>
+    <script src="/clearance/js/jquery.scrollTo.min.js"></script>
 
     <!-- jQuery counter -->
-    <script src="/js/jquery.counterup.min.js"></script>
+    <script src="/clearance/js/jquery.counterup.min.js"></script>
 
     <!-- jQuery parallax -->
-    <script src="/js/jquery.parallax-1.1.3.js"></script>
+    <script src="/clearance/js/jquery.parallax-1.1.3.js"></script>
 
     <!-- main js file -->
-     <script src="/js/front.js"></script>
+     <script src="/clearance/js/front.js"></script>
     
 
     
