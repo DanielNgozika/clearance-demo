@@ -30,4 +30,11 @@ do
     echo "Processing $f file..";
 done
 
+#copy _redirects file
+for f in *_redirects;
+do
+    cat $f > "$DEST/$f";
+    echo "Processing $f file..";
+done
+
 echo "Process complete." ;
