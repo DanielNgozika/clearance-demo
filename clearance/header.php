@@ -19,28 +19,28 @@
     <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,700,100%7CRoboto:400,700,300,100' rel='stylesheet' type='text/css'>
 
     <!-- Bootstrap and Font Awesome css -->
-    <link href="/css/font-awesome.css" rel="stylesheet">
-    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/clearance/css/font-awesome.css" rel="stylesheet">
+    <link href="/clearance/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Theme stylesheet -->
-    <link href="/css/style.default.css" rel="stylesheet" id="theme-stylesheet">
+    <link href="/clearance/css/style.default.css" rel="stylesheet" id="theme-stylesheet">
 
     <!-- Custom stylesheet - for your changes -->
-    <link href="/css/custom.css" rel="stylesheet">
+    <link href="/clearance/css/custom.css" rel="stylesheet">
 
     <!-- owl carousel css -->
 
-    <link href="/css/owl.carousel.css" rel="stylesheet">
-    <link href="/css/owl.theme.css" rel="stylesheet">
+    <link href="/clearance/css/owl.carousel.css" rel="stylesheet">
+    <link href="/clearance/css/owl.theme.css" rel="stylesheet">
 
     <!-- CSS Animations -->
-    <link href="/css/animate.css" rel="stylesheet">
+    <link href="/clearance/css/animate.css" rel="stylesheet">
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="favicon.png">
 
     <!-- Mordernizr -->
-    <script src="/js/modernizr-2.6.2.min.js"></script>
+    <script src="/clearance/js/modernizr-2.6.2.min.js"></script>
 
     <!-- Responsivity for older IE -->
     <!--[if lt IE 9]>
